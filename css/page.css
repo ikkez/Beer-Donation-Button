@@ -134,8 +134,8 @@ body {
 
     .top-button-wrap {
         line-height: 30px;
-        padding: 0 150px;
-        margin-bottom: 30px;
+        margin: 0 auto;
+        width: 470px;
     }
     .button-wrap {
         float: left;
@@ -159,6 +159,9 @@ body {
     .mb20 {
         margin-bottom: 20px;
     }
+    .ml20 {
+        margin-left: 20px;
+     }
 
     .btn {
         border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #B3B3B3;
@@ -188,12 +191,15 @@ body {
     }
     .btn:hover {
         background: #FAA732;
+        text-decoration: none;
     }
     a {
         text-decoration: none;
-        color: #FAA732;
+        color: #FF8414;
     }
-
+    a:hover {
+        text-decoration: underline;
+    }
     footer {
         margin-top: 60px;
         font-size: 0.7em;

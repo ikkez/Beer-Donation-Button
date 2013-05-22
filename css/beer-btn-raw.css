@@ -46,6 +46,8 @@
     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .4), inset 0 0 7px rgba(126, 97, 28, .75);
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .4), inset 0 0 7px rgba(126, 97, 28, .75);
     box-shadow: 0 1px 3px rgba(0, 0, 0, .4), inset 0 0 7px rgba(126, 97, 28, .75);
+    padding: 7px 20px 5px;
+    text-decoration: none;
 }
 
 @-moz-keyframes beer-css-bg {
