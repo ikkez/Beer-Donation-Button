@@ -116,6 +116,7 @@ body {
         margin-top: 0;
         margin-bottom: 10px;
         color: #644306;
+        line-height: 1.2em;
     }
 
     h2 {
@@ -135,11 +136,12 @@ body {
     .top-button-wrap {
         line-height: 30px;
         margin: 0 auto;
-        width: 470px;
+        max-width: 470px;
     }
     .button-wrap {
         float: left;
         width: 33%;
+        min-width: 170px;
         text-align: center;
     }
 
